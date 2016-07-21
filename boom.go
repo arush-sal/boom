@@ -25,7 +25,7 @@ import (
 	"runtime"
 	"strings"
 
-	"./boomer"
+	"boom/boomer"
 )
 
 const (
